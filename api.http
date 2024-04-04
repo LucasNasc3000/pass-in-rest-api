@@ -1,0 +1,35 @@
+POST http://localhost:3001/events
+Content-Type: application/json
+
+{
+    "title": "Local Meet24",
+    "details": null,
+    "maximunAttendees": 1 
+}
+
+###
+
+POST http://localhost:3001/events/e841e4c6-134f-4dbf-b25f-780ab7db6a68/attendees
+Content-Type: application/json
+
+{
+    "name": "maria",
+    "email": "maria@mail.com",
+    "eventId": "e841e4c6-134f-4dbf-b25f-780ab7db6a68"
+}
+
+###
+
+GET http://localhost:3001/events/e841e4c6-134f-4dbf-b25f-780ab7db6a68 
+
+###
+
+GET http://localhost:3001/attendees/5/badge
+
+###
+
+GET http://localhost:3001/attendees/5/check-in
+
+###
+
+GET http://localhost:3001/events/99eb31e8-e366-47ec-bd03-981c277a9d8e/attendees?query=Osvaldo 
