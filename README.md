@@ -5,4 +5,4 @@
 - Baixar o projeto
 - Rodar no terminal o comando `npm i`
 - Rodar no terminal o comando `npm run start`
-- Acessar no browser de sua preferência a url: 'http://localhost:3001/docs'
+- Acessar no browser de sua preferência a url: http://localhost:3001/docs
