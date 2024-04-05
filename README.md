@@ -10,12 +10,12 @@
 - Acessar no browser de sua preferência a url: http://localhost:3001/docs
 
 ### Funcionalidades:
-1 - Cadastrar eventos
-2 - Cadastrar usuários
-3 - Obter informações dos eventos
-4 - Visualizar os usuários cadastrados em um evento
-5 - Pesquisar por usuários
-6 - Realizar o check-in do usuário
+1 - Cadastrar eventos<br>
+2 - Cadastrar usuários<br>
+3 - Obter informações dos eventos<br>
+4 - Visualizar os usuários cadastrados em um evento<br>
+5 - Pesquisar por usuários<br>
+6 - Realizar o check-in do usuário<br>
 
 ### Comandos para banco de dados:
 - Acesso à tabela: `npm run db:studio`
