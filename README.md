@@ -9,6 +9,14 @@
 - Rodar no terminal o comando `npm run start`
 - Acessar no browser de sua preferência a url: http://localhost:3001/docs
 
+### Funcionalidades:
+1 - Cadastrar eventos
+2 - Cadastrar usuários
+3 - Obter informações dos eventos
+4 - Visualizar os usuários cadastrados em um evento
+5 - Pesquisar por usuários
+6 - Realizar o check-in do usuário
+
 ### Comandos para banco de dados:
 - Acesso à tabela: `npm run db:studio`
 - Gerar migrations: `npm run db:migrate`
