@@ -6,7 +6,8 @@
 - Abrir o git bash dentro do diretório escolhido para copiar o projeto
 - Digitar `git clone <url-copiada>`
 - Rodar no terminal o comando `npm i`
-- Rodar no terminal o comando `npm run start`
+- Depois o comando `npm prisma generate` 
+- E por fim `npm run start`
 - Acessar no browser de sua preferência a url: http://localhost:3001/docs
 
 ### Funcionalidades:
