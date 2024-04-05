@@ -10,6 +10,6 @@
 - Acessar no browser de sua preferência a url: http://localhost:3001/docs
 
 ### Comandos para banco de dados:
-- Para visualizar a tabela: `npm run db:studio`
+- Acesso à tabela: `npm run db:studio`
 - Gerar migrations: `npm run db:migrate`
 - Gerar seeds: `npx prisma db seed`
